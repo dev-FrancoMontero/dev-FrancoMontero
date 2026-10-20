@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Franco Montero 👋
+### Estudiante de Computación orientando mi camino hacia Data Engineering & Data Analytics.
 
-<!--
-**dev-FrancoMontero/dev-FrancoMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Sobre mí
+
+- 🎓 Estudiante técnico en la **E.T. N°9 "María Sánchez de Thompson"**.
+- 💻 Desarrollando lógica de programación y administración de bases de datos relacionales.
+- 🎯 Mi objetivo es especializarme en la creación de pipelines de datos (Data Engineering) y análisis estructurado (Data Analytics).
+- ⚡ Me apasiona resolver problemas algorítmicos complejos y optimizar consultas en bases de datos.
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="left">
+  <img height="180" src="https://vercel.appdev-FrancoMontero&show_icons=true&theme=matrix&hide_border=true" />
+  <img height="180" src="https://vercel.appdev-FrancoMontero&layout=compact&theme=matrix&hide_border=true" />
+</p>
+
+---
+
+## 📬 Conectemos
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/franco-montero-58349a280/)
