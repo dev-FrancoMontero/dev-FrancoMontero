@@ -1,6 +1,6 @@
 # Franco Montero
 
-Estudiante de Computación en la EEST N°9 "María Sánchez de Thompson" orientado al desarrollo de software y la ingeniería de datos. Enfocado en el diseño de arquitecturas de bases de datos relacionales, optimización de consultas estructuradas y automatización de procesos mediante código.
+Estudiante de Computación en la E.T. N°9 "María Sánchez de Thompson" orientado al desarrollo de software y la ingeniería de datos. Enfocado en el diseño de arquitecturas de bases de datos relacionales, optimización de consultas estructuradas y automatización de procesos mediante código.
 
 ---
 
