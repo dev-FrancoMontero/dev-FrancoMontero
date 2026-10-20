@@ -22,8 +22,8 @@ Estudiante de Computación en la E.T. N°9 "María Sánchez de Thompson" orienta
 ### Métricas de Actividad
 
 <p align="left">
-  <img height="150" src="https://vercel.app" />
-  <img height="150" src="https://vercel.app" />
+  <img height="150" src="https://shion.dev" />
+  <img height="150" src="https://shion.dev" />
 </p>
 
 ---
