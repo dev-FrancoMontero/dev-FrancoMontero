@@ -1,32 +1,33 @@
-# ¡Hola! Soy Franco Montero 👋
-### Estudiante de Computación orientando mi camino hacia Data Engineering & Data Analytics.
+# Franco Montero
+
+Estudiante de Computación en la EEST N°9 "María Sánchez de Thompson" orientado al desarrollo de software y la ingeniería de datos. Enfocado en el diseño de arquitecturas de bases de datos relacionales, optimización de consultas estructuradas y automatización de procesos mediante código.
+
+---
+
+### Competencias Técnicas
+
+* **Lenguajes de Programación:** Python, Java
+* **Gestión de Bases de Datos:** SQL, MySQL (Modelado relacional e integridad de datos)
+* **Infraestructura:** Fundamentos de hardware y arquitectura de sistemas
+
+---
+
+### Educación y Formación
+
+* **Técnico en Computación (En curso)** — *EEST N°9 "María Sánchez de Thompson"*
+  Formación enfocada en lógica algorítmica, estructuras de datos, administración de sistemas gestores de bases de datos (RDBMS) y soporte técnico de hardware.
+
+---
+
+### Métricas de Actividad
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img height="150" src="https://vercel.app" />
+  <img height="150" src="https://vercel.app" />
 </p>
 
 ---
 
-## 🛠️ Sobre mí
+### Contacto
 
-- 🎓 Estudiante técnico en la **E.T. N°9 "María Sánchez de Thompson"**.
-- 💻 Desarrollando lógica de programación y administración de bases de datos relacionales.
-- 🎯 Mi objetivo es especializarme en la creación de pipelines de datos (Data Engineering) y análisis estructurado (Data Analytics).
-- ⚡ Me apasiona resolver problemas algorítmicos complejos y optimizar consultas en bases de datos.
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img height="180" src="https://vercel.appdev-FrancoMontero&show_icons=true&theme=matrix&hide_border=true" />
-  <img height="180" src="https://vercel.appdev-FrancoMontero&layout=compact&theme=matrix&hide_border=true" />
-</p>
-
----
-
-## 📬 Conectemos
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/franco-montero-58349a280/)
+* **LinkedIn:** [linkedin.com/in/franco-montero-58349a280](https://linkedin.com)
