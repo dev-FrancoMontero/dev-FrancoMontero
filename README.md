@@ -30,4 +30,4 @@ Actualmente administrando repositorios privados y académicos enfocados en:
 
 ### Contacto
 
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/franco-montero-58349a280/)
